@@ -1,6 +1,0 @@
-logical_deduction_three_objects(defualt config)：93b9118200-27ef3937
-object_counting(defualt config)：93b9118200-27ef3937
-navigate(defualt config): 9cb9118e00-b8c69124
-navigate(1 unfrozen layer): 9cb9118e00-b8c69124
-navigate(4 unfrozen layer): 9cb9118e00-b8c69124
-web of lines(defualt config): 9cb9118e00-b8c69124
