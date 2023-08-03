@@ -1,0 +1,17 @@
+logical_deduction_three_objects(defualt config)：93b9118200-27ef3937
+--wandb results:(quiet-shadow-21) https://wandb.ai/ryanzengzh/trl/runs/sqxctvzp?workspace=user-ryanzengzh
+
+object_counting(defualt config)：93b9118200-27ef3937
+--wandb results:(chocolate-forest-18) https://wandb.ai/ryanzengzh/trl/runs/f8il5hdb?workspace=user-ryanzengzh
+
+navigate(defualt config): 9cb9118e00-b8c69124
+--wandb results:(ethereal-cloud-17) https://wandb.ai/ryanzengzh/trl/runs/iwhu0gn3?workspace=user-ryanzengzh
+
+navigate(reward change to (-1,1)): 9cb9118e00-b8c69124
+--wandb results:(cosmic-flower-22) https://wandb.ai/ryanzengzh/trl/runs/z88ap2fa?workspace=user-ryanzengzh
+
+navigate(4 unfrozen layer): 9cb9118e00-b8c69124
+--wandb results:(fancy-leaf-24) https://wandb.ai/ryanzengzh/trl/runs/icpgbu9r?workspace=user-ryanzengzh
+
+web of lines(defualt config): 93b9118200-27ef3937
+--wandb results:(treasured-snowball-25) https://wandb.ai/ryanzengzh/trl/runs/c20e5gtk?workspace=user-ryanzengzh
