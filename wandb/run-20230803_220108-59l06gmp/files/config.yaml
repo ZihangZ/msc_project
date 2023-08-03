@@ -1,0 +1,67 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.8.10
+    cli_version: 0.15.0
+    framework: huggingface
+    huggingface_version: 4.28.1
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1691071268.514389
+    t:
+      1:
+      - 1
+      - 11
+      - 49
+      - 51
+      - 55
+      - 71
+      - 84
+      2:
+      - 1
+      - 11
+      - 49
+      - 51
+      - 55
+      - 71
+      - 84
+      3:
+      - 23
+      4: 3.8.10
+      5: 0.15.0
+      6: 4.28.1
+      8:
+      - 5
+trl_ppo_trainer_config:
+  desc: null
+  value:
+    task_name: null
+    model_name: /root/autodl-tmp/Llama-2-7b-chat-hf
+    steps: 20000
+    learning_rate: 1.41e-05
+    adap_kl_ctrl: true
+    init_kl_coef: 0.2
+    target: 6
+    horizon: 10000
+    gamma: 1
+    lam: 0.95
+    cliprange: 0.2
+    cliprange_value: 0.2
+    vf_coef: 0.1
+    batch_size: 32
+    forward_batch_size: null
+    mini_batch_size: 1
+    gradient_accumulation_steps: 4
+    ppo_epochs: 4
+    remove_unused_columns: true
+    log_with: wandb
+    tracker_project_name: trl
+    max_grad_norm: null
+    seed: 1000
+    optimize_cuda_cache: true
+    early_stopping: false
+    target_kl: 0.1
+    compare_steps: 1
+    total_ppo_epochs: 625
